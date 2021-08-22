@@ -18,7 +18,10 @@
 
 
 ## Interview Questions:
-- Sting class: https://javarevisited.blogspot.com/2013/07/java-string-tutorial-and-examples-beginners-programming.html#axzz74FuXIwDB
-   
+- String class: https://javarevisited.blogspot.com/2013/07/java-string-tutorial-and-examples-beginners-programming.html#axzz74FuXIwDB
+- Final keyword: 
+    - https://www.javatpoint.com/final-keyword
+    - https://javarevisited.blogspot.com/2017/01/how-public-static-final-variable-works.html
+    - https://beginnersbook.com/2014/07/final-keyword-java-final-variable-method-class/   
 
 
