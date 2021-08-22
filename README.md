@@ -11,7 +11,7 @@
 - Collections
     - https://beginnersbook.com/java-collections-tutorials/
 
-    - List Interface
+    - List Interface: http://www.javafoundation.xyz/2016/06/list-interface.html
    
 
 
