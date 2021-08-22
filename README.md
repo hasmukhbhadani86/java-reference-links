@@ -18,10 +18,12 @@
 
 
 ## Interview Questions:
-- String class: https://javarevisited.blogspot.com/2013/07/java-string-tutorial-and-examples-beginners-programming.html#axzz74FuXIwDB
-- Final keyword: 
-    - https://www.javatpoint.com/final-keyword
-    - https://javarevisited.blogspot.com/2017/01/how-public-static-final-variable-works.html
-    - https://beginnersbook.com/2014/07/final-keyword-java-final-variable-method-class/   
+- String class:     https://javarevisited.blogspot.com/2013/07/java-string-tutorial-and-examples-beginners-programming.html#axzz74FuXIwDB
+- Final keyword:    https://beginnersbook.com/2014/07/final-keyword-java-final-variable-method-class/  
+- Satic vs Final:   https://techdifferences.com/difference-between-static-and-final-in-java.html    
+- String vsStringBuffer vs String builder: https://www.edureka.co/blog/string-vs-stringbuffer-vs-stringbuilder
+- Final, Finally and Finalize: https://techdifferences.com/difference-between-final-finally-and-finalize-in-java.html
+- Error vs Exception: https://techdifferences.com/difference-between-error-and-exception.html
+    
 
 
