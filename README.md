@@ -1,7 +1,9 @@
 # Java Reference Links
 
-- Get Started
-    - https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+- Get Started [OOPS, Inheritance,Polymorphism]
     - https://beginnersbook.com/
+    - https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+
+   
 
 
