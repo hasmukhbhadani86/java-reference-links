@@ -18,7 +18,7 @@
 
 
 ## Interview Questions:
-- https://beginnersbook.com/java-collections-tutorials/
+- Sting class: https://javarevisited.blogspot.com/2013/07/java-string-tutorial-and-examples-beginners-programming.html#:~:text=2)%20Strings%20are%20immutable%20and,modify%20the%20content%20of%20String.&text=Since%20String%20is%20final%20there,override%20any%20of%20String%20functionality.
    
 
 
