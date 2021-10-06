@@ -19,6 +19,7 @@
 
 ## Interview Questions:
 - String class:     https://javarevisited.blogspot.com/2013/07/java-string-tutorial-and-examples-beginners-programming.html#axzz74FuXIwDB
+- Wrapper Classes: [Autoboxing, Unboxing] - https://www.geeksforgeeks.org/wrapper-classes-java/
 - Concrete vs Abstract: https://www.tutorialspoint.com/differences-between-abstract-class-and-concrete-class-in-java
 - Interface vs abstract class: 
     - https://beginnersbook.com/2013/05/abstract-class-vs-interface-in-java/
